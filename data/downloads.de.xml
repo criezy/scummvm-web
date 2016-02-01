@@ -2,7 +2,7 @@
 <downloads xmlns:h="http://www.w3.org/TR/html4/">
 	<section>
 		<title>
-			Downloads f&uuml;r ScummVM <h:span style="color: rgb(170, 170, 170);">Version {$release}</h:span>
+			{#downloadsXMLTitle#} <h:span style="color: rgb(170, 170, 170);">{#downloadsXMLVersion#} {$release}</h:span>
 		</title>
 		<baseurl>http://prdownloads.sourceforge.net/scummvm/</baseurl>
 		<subsection>
